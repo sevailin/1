@@ -1,6 +1,6 @@
 from collections import Counter
 
-
+# Данная функция должна подходить под описание обеих функций из задания
 def buyers_count(n_customers, n_first_id=0):
     group_numbers = []
 
